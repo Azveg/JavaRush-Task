@@ -1,0 +1,1 @@
+Note that the ordering maintained by a sorted map (whether or not an explicit comparator is provided) must be consistent with equals if the 
